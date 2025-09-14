@@ -2,3 +2,5 @@ git status
 git add README.md
 git comit -m "updated the readme"
 git push
+
+git pull for changes on github to update to local 
